@@ -60,9 +60,9 @@ public class Animal extends Species{
         this.levelOfFood = levelOfFood;
     }
 
-//    public void eat(){
-//
-//    }
+    public void eat(){
+
+    }
 
 }
 
